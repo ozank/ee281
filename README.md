@@ -1,5 +1,10 @@
-ee281
+EE-281 - Electric Circuits
 =====
-deneme 1-2
-oldu mu?
+
+## Course Notes
+- sfsf
+- dfd
+- fdf
+-
+
 EE281 - Electric Circuits
