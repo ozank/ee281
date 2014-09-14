@@ -1,4 +1,4 @@
 # Summary
 
-* [Syllabus](README.md)
+* [Hi!](README.md)
 
