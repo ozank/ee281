@@ -1,12 +1,12 @@
 EE-281 - Electric Circuits
 =====
-Hi! In this website,  [I](http://ozan.keysan.me/) will publish my personal course notes for 2nd year EE-281 course (METU, 2014). For more information about the course, please visit the [official website]().
+Hi! In this [website](https://www.gitbook.io/book/ozank/ee281),  [I](http://ozan.keysan.me/) will publish my personal course notes for 2nd year EE-281 Electric Circuits course (METU, 2014). For more information about the course, please visit the [official website]().
 
 I'll try to update course notes every week. You can also contribute via [Github](https://github.com/ozank/ee281), if you want.
 
-Here are useful online sources:
+Here are a few online sources that you may find useful:
 
-## Free & Open-Source Resources
+## Free & Open-Source
 - [All About Circuits](http://www.allaboutcircuits.com/vol_1/)
 - [Lessons in Electric Circuits](http://www.faqs.org/docs/electric/)
 - [Wiki Books - Circuit Theory](http://www.faqs.org/docs/electric/)
@@ -19,3 +19,4 @@ Here are useful online sources:
 - [Schaum's Electric Circuits](http://accessengineeringlibrary.com/browse/schaums-outline-of-electric-circuits-sixth-edition)
 - [Circuit Analysis-1](http://www.ece.ubc.ca/~shahriar/eece251.html)
 
+Please contact [me](http://ozan.keysan.me/), if you have any problems.
