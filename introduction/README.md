@@ -35,10 +35,19 @@ Although, we will focus just on the analysis of the electrical circuits (or elec
 Some applications:
 
 ## Thermal Problems
-![](http://upload.wikimedia.org/wikipedia/commons/a/ac/Heat_sink_thermal_resistances.png)
+A Thruster
+![](http://upload.wikimedia.org/wikipedia/commons/3/3a/SpaceX_engine_test_fire.jpg)
+Converted into a thermal network:
+![](http://www.ecosimpro.com/images/lib_thermal_schematic.png)
 
 ## Mechanical Problems
-Motion of a train
+Motion of a magnetic levitation train
+![](http://upload.wikimedia.org/wikipedia/commons/d/d0/Shanghai_Transrapid_002.jpg)
+
+Converted into a mechanical model:
+![](https://raw.githubusercontent.com/ozank/ee281/master/images/train_circuit.png)
+
+## The Real Scope
 
 
 
