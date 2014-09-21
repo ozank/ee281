@@ -47,5 +47,5 @@ Motion of a magnetic levitation train
 Converted into a mechanical model:
 ![](https://raw.githubusercontent.com/ozank/ee281/master/images/train_circuit.png)
 
-## Remember:
+## Remember the Big Picture:
 ![](https://raw.githubusercontent.com/ozank/ee281/master/images/problem_modelling.png)
