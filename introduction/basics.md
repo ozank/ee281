@@ -51,7 +51,7 @@ $$w=\int P(t) dt = \int V(t) I(t) dt$$
 
 It is also common practice to express electrical energy in kilo-watt hours (**kWh**).
 
-Example: Electricity bills are calculated in terms of kWh.
+Example: Electricity bills([photo1](https://raw.githubusercontent.com/ozank/ee281/master/images/fatura1.jpg), [photo2](https://raw.githubusercontent.com/ozank/ee281/master/images/fatura2.jpg)) are calculated in terms of kWh.
 
 ### Absorbing or Dissipating?
 
