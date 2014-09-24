@@ -18,6 +18,10 @@ Charges cannot be created or destroyed, they are just transferred.
 ## Current
 Current is the rate of charge flow ($$i=\frac{dq}{dt}$$). 1 A equals to 1 Columb/seconds.
 
+[Video:
+Current and Amps: What are they?
+](www.youtube.com/watch?v=G3Ecx16iIBk)
+
 ## Voltage
 Voltage is related to the strenght of the electric field. It is analogous to pressure in a hydraulic circuit.
 
@@ -26,6 +30,8 @@ Voltage is related to the strenght of the electric field. It is analogous to pre
 $$v = \frac{dw}{dq}$$
 
 Voltage is equal to rate of work done by unit charge.
+
+[Video:Voltage/Volts: What is it?](www.youtube.com/watch?v=E8bdspoPtXk)
 
 ### Analogy to Hydraulic System
 - Voltage ~ Pressure
