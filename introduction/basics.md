@@ -7,7 +7,7 @@ The most common ones you'll see in this course are:
 - Mili (m) $$10^{-3}$$
 - Micro ($$\mu$$) $$10^{-6}$$
 - Nano (n) $$10^{-9}$$
-- Pico (n) $$10^{-12}$$
+- Pico (p) $$10^{-12}$$
 
 
 ## Charge
@@ -16,7 +16,7 @@ The unit of charge is Columbs (C), which is equal to charge of $$6.24 10^{18}$$ 
 Charges cannot be created or destroyed, they are just transferred.
 
 ## Current
-Current is the rate of charge flow ($$i=\frac{dq}{dt}$$). 1 A equals to 1 Columb/seconds.
+Current is the rate of charge flow ($$i=\frac{dq}{dt}$$). 1 A equals to 1 Coulomb/seconds.
 
 [Video:
 Current and Amps: What are they?
