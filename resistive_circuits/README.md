@@ -1,23 +1,3 @@
-# Resistivity - Ohm's Law
-
-The resistance of a material can be calculated as:
-
-$$R = \rho \frac{\ell}{A} \quad \Omega $$
-
-where \\(\rho\\) is the resistivity of the material, \\(\ell\\) is the length, \\(A\\) is the area. Remember to use SI units (m and m2) to get correect values.
-
-
-Voltage across a resistor is proportional to current it is carrying.
-
-
-$$Voltage = Current \times Resistance$$
-
-$$V=IR$$
-
-A **short circuit** is the case where the resistance between terminals is zero.
-
-An **open circuit** is the case where the resistance between terminals is infinity.
-
 # Nodes, Branches and Loops
 
 **Node** is the point of connection between elements. Elements connected to the same nodes have the same voltage.
@@ -56,15 +36,3 @@ $$\sum V_n =0$$
 If you meet with negative terminal of an element first, write that voltage as negative to the equation.
 
 $$-12 V  + V_1 +V_2 -6 +V_3+V_4 =0 $$
-
-#Series Resistors
-The equivalent resistance of any number of resistors connected in series is the **sum of the individual resistances**.
-
-$$R_{eq}=R_1+R_2+R_3 ... R_n$$
-
-#Parallel Resitors
-The equivalent resistance of two parallel resistors is equal to the product of their resistances divided by their sum.
-
-$$R_{eq}=\frac{R_1 R_2}{R_1 + R_2}$$
-
-![](http://hades.mech.northwestern.edu/images/5/51/Series_parallel_resistors.gif)
