@@ -4,7 +4,7 @@ In the nodal analysis, node voltages are calculated by solving the Kirchhoff's C
 
 Method includes the following steps:
 - Choose a reference node (ground)
-- Assign node voltages
+- Label node voltages
 - Write KCL equations for each node except the ground node.
 
 (For reference check [Nodal Analysis e-book](http://www.solved-problems.com/download/NodalAnalysis.pdf)).
