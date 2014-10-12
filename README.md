@@ -9,6 +9,7 @@ Here are a few online sources that you may find useful:
 ## Free & Open-Source
 - [All About Circuits](http://www.allaboutcircuits.com/vol_1/)
 - [Lessons in Electric Circuits](http://www.faqs.org/docs/electric/)
+- [Nodal Analysis e-book](http://www.solved-problems.com/download/NodalAnalysis.pdf)
 - [Wiki Books - Circuit Theory](http://www.faqs.org/docs/electric/)
 - [MIT Open Courseware](http://ocw.mit.edu/index.htm)
  - [Circuits and Electronics](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/index.htm)
