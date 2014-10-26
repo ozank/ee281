@@ -23,4 +23,4 @@ Here are a few online sources that you may find useful:
 - [Circuit Analysis-1](http://www.ece.ubc.ca/~shahriar/eece251.html)
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lisansı" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Bu eser <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Al 4.0 Uluslararası Lisansı</a> ile lisanslanmıştır. Kaynak göstererek ya da göstermeyerek istediğiniz gibi paylaşabilirsiniz.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lisansı" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Bu eserdeki metinler <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Al 4.0 Uluslararası Lisansı</a> ile lisanslanmıştır. Kaynak göstererek ya da göstermeyerek istediğiniz gibi paylaşabilirsiniz.

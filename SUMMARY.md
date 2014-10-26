@@ -12,4 +12,5 @@
        * [Supermesh](analysis_methods/supermesh)
 * [Circuit Theorems](circuit_theorems/README.md)
    * [Superposition](circuit_theorems/superposition.md)
+   * [Source Transformation](circuit_theorems/source_transformations.md)
 
