@@ -32,3 +32,19 @@ Using the superposition property of linear circuits. The voltages and currents c
 
 ### Examples:
 
+#### Ex. 1
+
+![](../images/superposition_ex1.png)
+
+[Solution](https://6002x.mitx.mit.edu/wiki/view/LinearityandSuperposition/)
+
+#### Ex.2
+
+![](../images/superposition_ex2.png)
+
+Answer: 7.4 V
+
+#### Ex. 3
+
+![](../images/superposition_ex3.png)
+Answer: 28 V
