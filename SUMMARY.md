@@ -10,4 +10,6 @@
        * [Supernodes](analysis_methods/supernodes.md)
    * [Mesh Analysis](analysis_methods/mesh_analysis.md)
        * [Supermesh](analysis_methods/supermesh)
+* [Circuit Theorems](circuit_theorems/README.md)
+   * [Superposition](circuit_theorems/superposition.md)
 
