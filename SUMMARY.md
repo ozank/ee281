@@ -14,4 +14,6 @@
    * [Superposition](circuit_theorems/superposition.md)
    * [Source Transformation](circuit_theorems/source_transformations.md)
    * [Thevenin-Norton Theorems](circuit_theorems/thevenin-norton_theorems.md)
+   * [Maximum Power Transfer](circuit_theorems/maximum_power_transfer)
+* [OPAMPs](opamps/README.md)
 
