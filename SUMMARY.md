@@ -16,4 +16,5 @@
    * [Thevenin-Norton Theorems](circuit_theorems/thevenin-norton_theorems.md)
    * [Maximum Power Transfer](circuit_theorems/maximum_power_transfer)
 * [OPAMPs](opamps/README.md)
+   * [Applications](opamps/applications.md)
 
