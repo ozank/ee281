@@ -17,4 +17,7 @@
    * [Maximum Power Transfer](circuit_theorems/maximum_power_transfer)
 * [OPAMPs](opamps/README.md)
    * [Applications](opamps/applications.md)
+* [Capacitors & Inductors](capacitors_&_inductors/README.md)
+   * [Capacitors](capacitors_&_inductors/capacitors.md)
+   * [Inductors](capacitors_&_inductors/inductors.md)
 

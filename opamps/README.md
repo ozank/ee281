@@ -43,8 +43,6 @@ io=-4.8mA
 
 $$V_o = (\frac{R_2}{R_1} + 1)\frac{R_4}{R_3+R_4}V_2 - \frac{R_2}{R_1}V_1$$
 
-![](../images/opamp_difference_ex.png)
-
 Ex:
 Design an op amp circuit with inputs v 1 and v 2 such that
 Vo = 3V2 - 5V1
