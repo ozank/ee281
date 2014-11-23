@@ -20,4 +20,8 @@
 * [Capacitors & Inductors](capacitors_&_inductors/README.md)
    * [Capacitors](capacitors_&_inductors/capacitors.md)
    * [Inductors](capacitors_&_inductors/inductors.md)
+   * [Opamp Applications](capacitors_&_inductors/opamp_applicatiosn.md)
+* [First-Order Circuits](first-order_circuits/README.md)
+   * [RC Circuits](first-order_circuits/rc_circuits.md)
+   * [RL Circuit](first-order_circuits/rl_circuit.md)
 
